@@ -1,6 +1,7 @@
 ## Budget Boy
 
 A simple tool to export CSVs with total spending per week using bank CSV export data.
+Built for personal use.
 
 ![subway-boy](https://user-images.githubusercontent.com/3859574/31581224-b358111e-b1b1-11e7-97ec-0617c24710bc.jpg)
 
